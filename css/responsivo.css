@@ -1,0 +1,27 @@
+@media screen and (max-width: 1005px) {
+    #botao {
+        display: none;
+    }
+
+    #b {
+        display: none;
+    }
+
+    #c {
+        display: none;
+    }
+
+    .navbar {
+        position: relative;
+    }
+
+    .logob h1 {
+        text-align: center;
+    }
+
+    .logob {
+        text-align: center;
+    }
+
+
+}
